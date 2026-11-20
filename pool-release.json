@@ -1,0 +1,8 @@
+{
+  "repo": "galileo442/runner",
+  "runtimeRevision": "6b728246fbaa9cd9d894846a1e0658f2267c255b",
+  "sourceRevision": "0bfb6c221af1a4227245181f499e45f9afa1e226",
+  "runtimeImage": "ghcr.io/galileo442/runner/control@sha256:849f9cad565c735a6a33cac392801c3a8416a9c87b6b8ac73607e018fc4c2fe3",
+  "providerImage": "ghcr.io/galileo442/runner/fleet-provider@sha256:34cc697b05e9c017ecb1892f62ed17544c2e52a32224262dd0615f99d314c7dd",
+  "validationRun": "https://github.com/galileo442/runner/actions/runs/44786032486"
+}
